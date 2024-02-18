@@ -1,0 +1,101 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    color: antiquewhite;
+    background-image: url(https://expertphotography.b-cdn.net/wp-content/uploads/2018/10/cloudy-day-photography.jpg);
+    background-size: 160% 130%
+
+    
+
+}
+
+.container{
+    width: 90%;
+    margin: 10% auto;
+    border-radius: 30px;
+    padding:5%;
+    background: rgba(144, 143, 143, 0.3); /* Semi-transparent white background */
+    backdrop-filter: blur(10px); /* Blur the content behind the element */
+
+}
+.searchbox{
+    display: flex;
+    justify-content: center;
+    padding: 10% 10% 0px 10%;
+   
+}
+.searchbox input{
+   height: 60px; 
+   width: 90%;
+   border-radius: 30px;
+   padding-left: 5%;  
+   border: 2px solid black;  
+   background-color: rgb(237, 242, 242); 
+}
+
+.searchbox button{
+    border-radius: 50%;
+    margin-left: 3%;
+    border: none;
+    background-color: rgb(138, 211, 207);
+   
+}
+.searchbox button img{
+    width: 40%;
+    height: 45%;
+   
+    
+}
+
+.error {
+    display: none;
+    justify-content: center;
+    padding-top: 5%;
+    color: rgb(108, 4, 4);
+    font-weight: 700px;
+  
+}
+.weatherimg{
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+}
+.temp,.location{
+   display: flex;
+   justify-content: center;
+   font-size: 2rem;
+   color: black;
+}
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin-top: 50px;
+}
+
+.col{
+    display: flex;
+    align-items: center;
+}
+
+.col img{
+    width: 40px;
+    margin-right: 2vb;
+}
+
+
+
+
+
+
+
+
+
+
+
