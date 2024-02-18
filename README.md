@@ -1,2 +1,2 @@
 # Weather-App
-"Experience real-time weather updates! Enter a city and get instant temperature, wind speed, and humidity readings. HTML, CSS, and JavaScript power this intuitive weather app."
+This weather application, crafted with HTML, CSS, and JavaScript, provides real-time weather updates based on user-entered cities. With intuitive design and accurate data display, it offers insights into temperature, wind speed, and humidity. Dive into the codebase to explore how this project has honed my front-end development skills, showcasing proficiency in API integration, DOM manipulation, and user experience design. Join me in experiencing the journey of creating a dynamic weather application!"
